@@ -1,16 +1,34 @@
-# CARTE Education Pathways
+# ECE444 Lab 3: Docker
 
-## ECE444 Lab 3: Docker
+
+## Activity 1: Docker Installation
+![Activity1](https://user-images.githubusercontent.com/47069889/135785177-a6fbc4cb-5350-4277-afa8-d115ad9bf52b.png)
+
+## Activity 2: Cloning Education Pathways Repo
 Edited by: Yousif Al-Furaiji
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways
 
-### Acitity 5: Feedback on Education Pathways application
+![Activity2](https://user-images.githubusercontent.com/47069889/135785291-1e78337c-32ed-46a1-a0c6-e241e9f207dc.png)
+
+## Activity 3: Building Docker Image
+![Activity3](https://user-images.githubusercontent.com/47069889/135785317-0c4a80e5-f40f-441a-a621-195c2cf1a3be.png)
+
+## Activity 4: Run Docker Image on Localhost
+![Activity4a](https://user-images.githubusercontent.com/47069889/135785523-741be718-55ae-4e1e-9b06-d317beb3c587.png)
+
+The running docker image
+
+![Activity4b](https://user-images.githubusercontent.com/47069889/135785525-1733a348-0fff-4c49-ab1a-c5a1bfc89613.png)
+
+## Activity 5: Feedback on Education Pathways application
 #### Functional Requirement:
 A function requirement of this system is the ability to do course code search. At the moment, the website does search using only course names. I would improve on this by making it able to search by course code which is something my peers and I find very helpful on other course planning websites.
 
 #### Non-functional Requirement:
 A non-functional requirement of this system is having a more convenient search. For example, when I search "software", ECE444 is on the top of the list but when I search "software engineering", the course is fourth on the list. I would improve on this by changing course listing order priority to show what a user more likely wants first. Currently, ECE444 seems to be fourth on the list due the top three courses having "software engineering" in the course description section, which is not what a student usually searches for.
+
+# CARTE Education Pathways
 
 ## Description
 Welcome to CARTE's in-development tool for course selection at UofT. Education Pathways allows for more intelligent course searching, by matching not just the terms you search, but ones relevant to them. The more terms you search for, the more relevant your results will be! Even try searching across disciplines for the courses that best cover each.
